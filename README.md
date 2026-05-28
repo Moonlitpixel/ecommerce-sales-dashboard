@@ -4,9 +4,11 @@
 A simple interactive business intelligence dashboard that tracks monthly revenue trends, order volumes, and key sales performance metrics using raw e-commerce data.
 
 ### Dashboard Preview
+![Sales Performance Dashboard](a0aa0eea-9d84-4c75-bf76-8f269474b2ba.jpg)
+
 ![Sales Performance Dashboard](03563631-6bd9-41ed-b05b-7a9d414afe0f.jpg)
-![Sales Performance Dashboard]()
-![Sales Performance Dashboard]()
+
+![Sales Performance Dashboard](9eead221-cbb7-44e9-ba58-50d3759acae1.jpg)
 ---
 
 ### What It Tracks
